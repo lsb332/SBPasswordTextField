@@ -31,7 +31,7 @@
                 <string>http://www.zhuan.quzhidian.com/img/iOS-logo-512.png</string>
             </dict>
         </array>
-        <key><metadata</key>
+        <key>metadata</key>
             <dict>
                 <key>bundle-indentifier</key>
                 <string>com.waterwin.EarnBoardLot</string>
